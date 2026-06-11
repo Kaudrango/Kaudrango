@@ -1,16 +1,21 @@
-## Hi there 👋
+# Olá, eu sou Kau
 
-<!--
-**Kaudrango/Kaudrango** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor do projeto HEPO
 
-Here are some ideas to get you started:
+🤖 Criando um bot Discord em Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 Desenvolvendo um painel web para o HEPO
+
+🖥️ Setup:
+
+* Ryzen 5 8500G
+* 32GB RAM
+* Windows 11 AtlasOS
+
+🎮 Jogos:
+
+* Warframe
+* Brawlhalla
+* Overwatch 2
+
+📫 GitHub: Kaudrango
