@@ -14,7 +14,6 @@
 
 🎮 Jogos:
 
-* Warframe
 * Brawlhalla
 * Overwatch 2
 
