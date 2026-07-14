@@ -4,7 +4,7 @@
 
 🤖 Criando um bot Discord em Python
 
-🌐 Desenvolvendo um painel web para o HEPO
+🌐 Desenvolvendo um painel web para o [HEPO](https://hepo.discloud.app/)
 
 🖥️ Setup:
 
@@ -18,5 +18,3 @@
 * Overwatch 2
 
 📫 GitHub: Kaudrango
-
-🌐 Site: [hepo.discloud.app](https://hepo.discloud.app/)
