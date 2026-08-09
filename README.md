@@ -1,19 +1,19 @@
 # Olá, eu sou Kau
 
-💻 Desenvolvedor do projeto HEPO
+Desenvolvedor do projeto HEPO
 
-🤖 Criando um bot Discord em Python
+Criando um bot Discord em Python
 
-🌐 Desenvolvendo um painel web para o [HEPO](https://hepo.discloud.app/)
+Desenvolvendo um painel web para o [HEPO](https://hepo.discloud.app/)
 
-🖥️ Setup:
+Setup:
 
 * Ryzen 5 8500G
 * 32GB RAM
 * Windows 11 AtlasOS
 
-🎮 Jogos:
-
+Jogos:
+* PalWorld
 * Brawlhalla
 * Overwatch 2
 
