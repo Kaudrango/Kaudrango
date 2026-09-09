@@ -30,9 +30,9 @@
 
 ### 🎮 Jogos
 
-![PalWorld](https://img.shields.io/badge/any_PalWold_like-blue)
-![Brawlhalla](https://shields.io)
-![Overwatch 2](https://shields.io)
+![PalWorld](https://img.shields.io/badge/-PalWorld-2ec4b6?style=flat-square)
+![Brawlhalla](https://img.shields.io/badge/-Brawlhalla-e63946?style=flat-square)
+![Overwatch 2](https://img.shields.io/badge/-Overwatch%202-ffb703?style=flat-square)
 
 ### 🔗 Links & Redes Sociais
 
