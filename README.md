@@ -30,7 +30,7 @@
 
 ### 🎮 Jogos
 
-![PalWorld](https://img.shields.io/badge/any_text-you_like-blue)
+![PalWorld](https://img.shields.io/badge/any_PalWold_like-blue)
 ![Brawlhalla](https://shields.io)
 ![Overwatch 2](https://shields.io)
 
