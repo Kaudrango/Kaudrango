@@ -4,9 +4,9 @@
 
 **Desenvolvedor do projeto [HEPO](https://discloud.app)** — bot de moderação para Discord
 
-[![Website](https://shields.io)](https://hepo.discloud.app/)
-[![Discord](https://shields.io)](https://discord.gg/89HGfXwRYY)
-[![GitHub followers](https://shields.io)](https://github.com/Kaudrango)
+[![Website](https://img.shields.io/badge/Website-hepo.discloud.app-a855f7?style=for-the-badge&logo=vercel&logoColor=white)](https://hepo.discloud.app/)
+[![Discord](https://img.shields.io/badge/Discord-Suporte-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/89HGfXwRYY)
+[![GitHub followers](https://img.shields.io/github/followers/Kaudrango?style=for-the-badge&logo=github&color=181717)](https://github.com/Kaudrango)
 
 </div>
 
