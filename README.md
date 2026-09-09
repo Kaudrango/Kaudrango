@@ -30,7 +30,7 @@
 
 ### 🎮 Jogos
 
-![PalWorld](https://shields.io)
+![PalWorld](https://img.shields.io/badge/any_text-you_like-blue)
 ![Brawlhalla](https://shields.io)
 ![Overwatch 2](https://shields.io)
 
@@ -46,6 +46,6 @@
 
 <div align="center">
 
-![GitHub stats](https://vercel.app)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kaudrango&show_icons=true&theme=radical&hide_border=true)
 
 </div>
