@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Olá, eu sou o Kau
+# 👋 Olá, eu sou o Kauan Antonino Alves ou conhecido como Kau!
 
 **Desenvolvedor do projeto [HEPO](https://hepo.discloud.app/)** — bot de moderação para Discord
 
