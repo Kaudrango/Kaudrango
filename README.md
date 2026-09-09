@@ -14,17 +14,19 @@
 
 ### 🚀 Sobre mim
 
-- 🐍 Criando um **bot de Discord em Python**
-- 🌐 Desenvolvendo um **painel web** para o [HEPO](https://hepo.discloud.app/)
-- 📚 Sempre aprendendo algo novo em dev
+- 🐍 Criador do Projeto **bot de Discord em Python**
+- 🌐 Criador do **painel web** para o [HEPO](https://hepo.discloud.app/)
+- 📚 Sempre aprendendo algo novo em Front-End
 
 ### 🖥️ Setup
 
 | | |
 |---|---|
+| **MÃE** | ASUS A620M-K |
 | **CPU** | Ryzen 5 8500G |
-| **RAM** | 32GB |
+| **RAM** | 2x16GB |
 | **OS** | Windows 11 AtlasOS |
+
 
 ### 🎮 Jogos
 
