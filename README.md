@@ -40,4 +40,4 @@
 - 💼 **LinkedIn:** [Kauan Antonino Alves](https://www.linkedin.com/in/kaudrango/)
 - 📸 **Instagram:** [@kaudrango](https://www.instagram.com/kaudrango/)
 - 📱 **TikTok:** [@kaudrango](https://www.tiktok.com/@kaudrango)
-- 🤖 **Site do Bot:** [HEPO](https://hepo.discloud.app/)
+- 🤖 **Site do Bot:** [HEPO](https://hepo.app.br/)
